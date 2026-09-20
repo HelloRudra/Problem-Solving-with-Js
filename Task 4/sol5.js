@@ -17,7 +17,6 @@ console.log(truncateString("Short text", 15));
 // "Short text"
 
 console.log(truncateString("Hello world", 3));
-// "..."
+
 
 console.log(truncateString("Hello world", 2));
-// "..."
