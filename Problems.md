@@ -4,10 +4,10 @@ Given an array nums containing n distinct numbers taken from the range [0, n], r
 
 Examples
 missingNumber([3, 0, 1]);
-// => 2
+=> 2
 
 missingNumber([0, 1]);
-// => 2
+=> 2
 
 
 Example 1
